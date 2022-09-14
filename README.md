@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fedog-ops
+- 👋 Hi, I’m Felix McDermott
 - 👀 I’m interested in exploring software engineering
-- 🌱 I’m currently learning cs50
+- 🌱 I’m currently learning javaScript at Northcoders
 
 - 📫 How to reach me ... 
 
