@@ -6,7 +6,6 @@ Back End: Express, SQL, Jest
 
 
 email: felixtmcd@outlook.com
-linkedIn: https://www.linkedin.com/in/felixmcdermott/
 
 <!---
 fedog-ops/fedog-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
