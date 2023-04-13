@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Felix McDermott
 
-- 🌱 Language: JavaScript 
+- ✨ https://felixtmcd.netlify.app/
+
+- 🌱 Language: JavaScript, Java
 Front End: React, HTML5, CSS Frameworks
-Back End: Express, SQL, Jest
+Back End: Express, Jest, Springboot, SQl, mongo
 
 
 
