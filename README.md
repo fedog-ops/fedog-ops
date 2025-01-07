@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Felix McDermott
+- 👋 Hi, I’m Felix
 
-- ✨ https://felixtmcd.netlify.app/
-
-- 🌱 Language: JavaScript, Java
+- 🌱 Language: JavaScript, Java, Go, Angular
 
 - Front End: React, HTML5, CSS Frameworks
 
