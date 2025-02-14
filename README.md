@@ -1,30 +1,31 @@
-- 👋 Hi, I’m Felix
+# 👋 Hi, I’m Felix
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages:
+### Languages:
+- Go
+- Java
+- TypeScript
 
-Go
+### Technologies:
+- Angular
+- React Native
+- AWS (Lambdas, S3, DynamoDB)
 
-Java
+### Tools:
+- Docker
+- GitHub Actions
+- CI/CD Pipelines
 
-TypeScript
+- https://x.com/x_motto
 
-Technologies:
+<!---
+fedog-ops/fedog-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-Angular
 
-React Native
 
-AWS (Lambdas, S3, DynamoDB)  
-
-Tools:
-
-Docker
-
-GitHub Actions
-
-CI/CD Pipelines
 <!---
 fedog-ops/fedog-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
