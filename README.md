@@ -1,30 +1,22 @@
-# 👋 Hi, I’m Felix
+# Felix 🚀
 
-## 🛠️ Tech Stack
+**Software Engineer | MSc Innovation & Entrepreneurship**
 
-### Languages:
-- Go
-- Java
-- TypeScript
+---
 
-### Technologies:
-- Angular
-- React Native
-- AWS (Lambdas, S3, DynamoDB)
+### 🛠 What I'm Up To
+- **Expo Dev:** Spending most of my time in **Expo 54**. Recently handled the migration for a production app doing **680k+ orders** at **Order Digital**.
+- **Web3 & Solana:** Into the Solana ecosystem since Uni. Heading to the **EasyA Consensus Hackathon**to build out some mobile dApp ideas.
 
-### Tools:
-- Docker
-- GitHub Actions
-- CI/CD Pipelines
+### 🃏 Games
+- Designing a card game called **Yeehaw**, heading to Kickstarter.
+- If you like playtesting, let me know!
+  → [barngames.co.uk](https://www.barngames.co.uk/)
 
-<!---
-fedog-ops/fedog-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📉 Impact
+- **Innovation:** My **MSc** from Bristol helps me look past the code to figure out if we're actually solving a problem.
+- **Infrastructure:** Handling everything from **Sunmi V3** hardware hacks to full **App Store** releases.
 
-
-
-<!---
-fedog-ops/fedog-ops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+Always down to talk tech, hackathons, or dApps on mobile.  
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/felixmcdermott/)
