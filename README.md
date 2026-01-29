@@ -6,7 +6,7 @@
 
 ### 🛠 What I'm Up To
 - **Expo Dev:** Spending most of my time in **Expo 54**. Recently handled the migration for a production app doing **680k+ orders** at **Order Digital**.
-- **Web3 & Solana:** Into the Solana ecosystem since Uni. Heading to the **EasyA Consensus Hackathon**to build out some mobile dApp ideas.
+- **Web3 & Solana:** Into the Solana ecosystem since Uni.
 
 ### 🃏 Games
 - Designing a card game called **Yeehaw**, heading to Kickstarter.
